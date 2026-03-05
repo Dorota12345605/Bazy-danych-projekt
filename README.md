@@ -1,1 +1,1 @@
-# PythonLabyMetodyProbalistyczne
+#System dla gabinetu dentystycznego
